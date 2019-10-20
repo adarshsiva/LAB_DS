@@ -7,6 +7,6 @@ class q12 {
      System.out.println("false");
      System.out.println("69");
      System.out.println("69<-71");
-     
+     //this is boring
   }
 }
