@@ -5,6 +5,6 @@ class q21 {
      System.out.println("19 45 59");
      System.out.println("19 45 59 86");
      System.out.println("19");
-
+//lol
   }
 }
