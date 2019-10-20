@@ -7,6 +7,6 @@ class q16 {
      System.out.println("68<-50");
      System.out.println("50");
      System.out.println("50");
-     
+     //it owuld be good if you can reduce the number of test cases
   }
 }
